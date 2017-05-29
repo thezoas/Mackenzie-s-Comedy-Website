@@ -1,0 +1,47 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1496082871435">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4127156011" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1834be4e7ed2dec4fcc3bed960adfb76.jpg" crc="3900882421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aziz.jpg" crc="4174634480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bob-saget-most-popular-comedians.jpg" crc="3971808288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="comedy-jumbo.jpg" crc="152328986" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jimg.jpg" crc="248573580" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tina-crop-u195.jpg" crc="4167555283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kristen-wiig-crop-u174.jpg" crc="4241195827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stevem.jpg" crc="515175143" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kristen.jpg" crc="213971868" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="george.jpg" crc="4082293544" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="252484075" seo="true" mt="1496082802706" redirect="true"/>
+</manifest>

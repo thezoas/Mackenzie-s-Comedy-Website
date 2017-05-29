@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://index.html/index.html</loc>
+    <lastmod>2017-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/1834be4e7ed2dec4fcc3bed960adfb76.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/aziz.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/bob-saget-most-popular-comedians.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/comedy-jumbo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/jimg.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/tina-crop-u195.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/kristen-wiig-crop-u174.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/stevem.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/kristen.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/george.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
